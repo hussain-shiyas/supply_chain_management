@@ -17,5 +17,5 @@ if(mysqli_query($conn,$sql)){
   
 //catch exception
 catch(Exception $e) {
-  echo 'cannnot delete   ';
+  echo 'cannnot delete  foreign  ';
 }
