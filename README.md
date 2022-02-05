@@ -10,7 +10,7 @@ FIRST Download
 
 3"Supply_Management_System"
 
-4. Download the zip file/ download winrar
+4. Download the zip file <a>CLICK HERE</a>    AND download winrar
 
 5. Extract the file and copy "supply_chain_management" folder
 
